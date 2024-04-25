@@ -45,3 +45,9 @@ The user is also able to evaluate the Blockchain Ledger System by clicking the "
 
 <img width="717" alt="Screenshot 2024-04-24 at 4 38 28 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_18/assets/152752672/81bdd03e-ff31-49f3-ba38-c2c7a489d10e">
 
+---
+# Tutor Meetings through FINTECH Bootcamp:
+- Gerrardo Espinoza
+- Wednesday 4/24/2024
+
+
