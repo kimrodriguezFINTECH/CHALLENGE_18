@@ -31,18 +31,17 @@ You’ll make the following updates to the provided Python file for this Challen
 
 ---
 # Streamlit PyChain Application Screenshot
+This Streamlit Application mimics a blockchain-based ledger system that allows users to conduct financial transactions (transfer money between senders and receivers) and to verify the integrity of the data in the ledger. To use the application, the user is prompted to enter a Sender address, Receiver address, and the Amount of crypto to send.
 
 <img width="1440" alt="Screenshot 2024-04-24 at 4 56 32 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_18/assets/152752672/25267de3-b0b4-473b-a07d-a76e7c2510e4">
 
 # Scenario: Adding New Blocks
+The "PyChain Ledger" tracks and stores the transactions and the user is able to inspect each block/transaction using the "Block Inspector" drop-down menu located to the left of the application.
 
 <img width="723" alt="Screenshot 2024-04-24 at 4 38 11 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_18/assets/152752672/7f149ba8-283a-4f63-b6e3-d2c1837f619f">
 
 # Scenario: Validating Blocks
+The user is also able to evaluate the Blockchain Ledger System by clicking the "Validate Chain" button, which compares the hash of the previous block to the previous hash of the current block.
 
 <img width="717" alt="Screenshot 2024-04-24 at 4 38 28 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_18/assets/152752672/81bdd03e-ff31-49f3-ba38-c2c7a489d10e">
 
-
-This Streamlit Application mimics a blockchain-based ledger system that allows users to conduct financial transactions (transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
-
-To use the application, the user is prompted to enter a Sender address, Receiver address, and the Amount of crypto to send. The "PyChain Ledger" tracks and stores the transactions and the user is able to inspect each block/transaction using the "Block Inspector" drop-down menu located to the left of the application. The user is also able to evaluate the Blockchain Ledger System by clicking the "Validate Chain" button, which compares the hash of the previous block to the previous hash of the current block.
