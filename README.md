@@ -31,7 +31,10 @@ You’ll make the following updates to the provided Python file for this Challen
 ---
 # Streamlit PyChain Application Screenshot
 This Streamlit Application mimics a blockchain-based ledger system that allows users to conduct financial transactions (transfer money between senders and receivers) and to verify the integrity of the data in the ledger. To use the application, the user is prompted to enter a Sender address, Receiver address, and the Amount of crypto to send.
+## Code 
+<img width="635" alt="Screenshot 2024-04-24 at 5 07 54 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_18/assets/152752672/40ad642d-9f6b-43d8-904b-88ebe6aa786d">
 
+## Screenshot
 <img width="1440" alt="Screenshot 2024-04-24 at 4 56 32 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_18/assets/152752672/25267de3-b0b4-473b-a07d-a76e7c2510e4">
 
 # Scenario: Adding New Blocks
