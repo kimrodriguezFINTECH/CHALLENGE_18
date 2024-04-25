@@ -40,7 +40,8 @@ You’ll make the following updates to the provided Python file for this Challen
 
 # Scenario: Validating Blocks
 
-<img width="1440" alt="Screenshot 2024-04-24 at 4 51 47 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_18/assets/152752672/9ca8499d-466f-4ff7-98b4-39cec19c503d">
+<img width="717" alt="Screenshot 2024-04-24 at 4 38 28 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_18/assets/152752672/81bdd03e-ff31-49f3-ba38-c2c7a489d10e">
+
 
 This Streamlit Application mimics a blockchain-based ledger system that allows users to conduct financial transactions (transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
